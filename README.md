@@ -1,5 +1,5 @@
 # vinyl_shop
 
-Work in progress.
+A project for Kaunas Coding School Web development course.  
 
-You can find my project screenshots here: https://imgur.com/a/zwbwv
+You can find project screenshots here: https://imgur.com/a/zwbwv
